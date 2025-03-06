@@ -1,17 +1,17 @@
 <h1 align="center">
   <br>
-  <a href="http://gregsithole.com">
+  <!-- <a href="http://gregsithole.com"> -->
   <img src="./src/assets/light-logo.svg" alt="GregSithole" width="200"></a>
   <br>
-  Greg Sithole's Personal Website
+  Bhaskar Godasi's Personal Website
   <br>
 </h1>
 
-<h4 align="center">A simple personal website about <a href="http://gregsithole.com" target="_blank">Greg Sithole</a>.</h4>
+<h4 align="center">A simple personal website about <a href="http://bhaskargodasi.com" target="_blank">Bhaskar Godasi</a>.</h4>
 
 <br>
 
-![screenshot](https://github.com/GregSithole/gregsithole-react-portfolio/raw/master/src/assets/screenshot.png)
+
 
 ## How To Use
 
